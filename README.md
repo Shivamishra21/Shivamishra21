@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shiva Mishra
 
-## I'm a Developer, Daughter, and Learner!
+## I'm a Developer, Daughter and Learner!
 
 - 🌱 I'm currently learning Backend and react-native
 - 👯‍♀️ I'm looking ot collaborate with everyone
