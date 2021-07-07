@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Daughter and Learner!
 
-- 🌱 I'm currently learning Backend and react-native
+- 🌱 I'm currently learning Backend
 - 👯‍♀️ I'm looking to collaborate with everyone
 - 🥅 2021 goals: Contribute to open source and work on myself
 - ✨I love to listen music anytime anywhere 😂
