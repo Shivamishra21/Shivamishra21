@@ -7,6 +7,9 @@
 - 🥅 2021 goals: Contribute to open source and work on myself
 - ✨I love to listen music anytime anywhere 😂
 
+
+<img src = "https://visitor-badge.laobi.icu/badge?page_id=Shivamishra21.Shivamishra21">
+
 ### Connect with me 🤝:
 
 <a href="https://www.linkedin.com/in/shiva-mishra-a802881a2/" target="_blank" rel="noopener noreferrer">
@@ -87,4 +90,14 @@
 
 
 <a  href="https://jwt.io/" target="_blank" rel="noopener noreferrer">
-<img alt="jsonwebtoken" src="https://www.devonblog.com/wp-content/uploads/2018/08/jwt_05.jpg" width="56px" height = "40px"></a>
+<img alt="jsonwebtoken" src="https://www.devonblog.com/wp-content/uploads/2018/08/jwt_05.jpg" width="56px" height = "40px"/></a>
+
+<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/632/PNG/128/graph-9_icon-icons.com_58019.png" width="20px"> Stats</h2>
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Shivamishra21&show_icons=true&theme=great-gatsby"/>
+ <br/>                                                                                                                            
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamishra21&theme=tokyonight"/>                                                                                                                          
+                                                                                                                          
+                                                                                                                          
+                                                                                                                          
+
